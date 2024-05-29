@@ -6,7 +6,7 @@
 |--|--|
 | Módulo | Criando Um Pequeno Sistema Para Validação de Processo Seletivo |
 | Com | Gleyson Sampaio |
-| Bootcamp | Santander Bootcamp 202024 - Back-end em Java basico |
+| Bootcamp | Santander Bootcamp 2024 - Back-end em Java basico |
 | Plataforma | DIO |
 
 
